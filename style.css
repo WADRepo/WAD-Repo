@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+
+}
+img{
+    margin-left: 350px;   
+    border: 2px dashed rgb(202, 148, 148);
+    border-radius: 10px 10px 10px 10px;
+}
+
+button{
+    background-color: rgb(115, 231, 235);
+    margin-left: 100px;
+    border-radius: 30%;
+}
+button:hover{
+    background-color: aliceblue;
+    transition: 0.5s;
+}
+div{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(212, 209, 204);
+    border-radius: 10px;
+    padding: 10px;
+}
